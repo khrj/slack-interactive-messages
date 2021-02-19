@@ -1,2 +1,2 @@
-# interactive-messages
-Deno port of @slack/interactive-messages
+# [DEPRECATED] interactive-messages
+Use [slack_bolt](https://deno.land/x/slack_bolt) instead
